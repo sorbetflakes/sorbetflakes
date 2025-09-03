@@ -1,0 +1,14 @@
+name: Update Spotify README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # runs every 30 minutes
+  workflow_dispatch: # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Spotify Card
+        run: echo "Spotify card auto-refresh triggered"
