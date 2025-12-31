@@ -8,6 +8,6 @@
   <img src="https://files.catbox.moe/a4iaf5.png" alt="sorbetflake" width="450"/>
 </p>
 <p align="center"> 
- ㅤ <a href="https://sorbetflakes.atabook.org">atabook</a>ㅤㅤㅤ·ㅤㅤ
+ <a href="https://sorbetflakes.atabook.org">atabook</a> ㅤㅤㅤ·ㅤㅤㅤ
     <a href="https://sorbetflake.straw.page">strawpage</a>
     
