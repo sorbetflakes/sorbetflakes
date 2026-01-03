@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=181B21&label=$"
+    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=0A0E17&label=$"
     alt="$"
     width="70"
   />
@@ -13,7 +13,7 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/6zuhfz.png" alt="sorbetflake" width="450"/>
+  <img src="https://files.catbox.moe/w5rtmk.png" alt="sorbetflake" width="450"/>
 </p>
 <p align="center">
  <a href="https://sorbetflakes.atabook.org">atabook</a>ㅤㅤㅤㅤㅤ ㅤ·ㅤㅤㅤㅤㅤ 
