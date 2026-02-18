@@ -8,7 +8,7 @@
   
 <img
   src="https://files.catbox.moe/ijdnz7.png"
-  width="410"
+  width="400"
   align="left"
 />
 <br><br><br>
