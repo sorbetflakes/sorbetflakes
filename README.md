@@ -4,7 +4,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=sorbetflakes&color=FF1C9E&label=PRANKS"
     alt="PRANKS"
-    width="150"
+    width="130"
   
 <img
   src="https://files.catbox.moe/ijdnz7.png"
@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1DFCBE&bar_color_cover=false" width=400">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1DFCBE&bar_color_cover=false" width=350">
 <br><br><br>
