@@ -11,15 +11,15 @@
   width="430"
   align="left"
 />
-
+<br><br><br>
 <p align="left">
   <a href="https://sorbetflakes.atabook.org/">
-    <img src="https://files.catbox.moe/tukaid.png" width="180">
+    <img src="https://files.catbox.moe/tukaid.png" width="150">
   </a>
 </p>
  <p align="right">
   <a href="https://sorbetflake.straw.page/">
-    <img src="https://files.catbox.moe/a2dbrg.png" width="220">
+    <img src="https://files.catbox.moe/a2dbrg.png" width="175">
   </a>
 </p>
 
