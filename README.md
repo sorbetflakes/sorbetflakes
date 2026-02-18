@@ -19,7 +19,7 @@
 </p>
  <p align="center">
   <a href="https://sorbetflake.straw.page/">
-    <img src="https://files.catbox.moe/a2dbrg.png" width="190">
+    <img src="https://files.catbox.moe/a2dbrg.png" width="185">
   </a>
 </p>
 
