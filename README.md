@@ -14,15 +14,15 @@
 
 <p align="left">
   <a href="https://sorbetflakes.atabook.org/">
-    <img src="https://files.catbox.moe/tukaid.png" width="200">
+    <img src="https://files.catbox.moe/tukaid.png" width="180">
   </a>
 </p>
  <p align="right">
   <a href="https://sorbetflake.straw.page/">
-    <img src="https://files.catbox.moe/a2dbrg.png" width="250">
+    <img src="https://files.catbox.moe/a2dbrg.png" width="220">
   </a>
 </p>
 
 <p align="center">   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1DFCBE&bar_color_cover=false" width=345">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1DFCBE&bar_color_cover=false" width=400">
 <br><br><br>
