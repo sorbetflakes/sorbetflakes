@@ -14,12 +14,12 @@
 <br><br><br>
 <p align="center">
   <a href="https://sorbetflakes.atabook.org/">
-    <img src="https://files.catbox.moe/tukaid.png" width="170">
+    <img src="https://files.catbox.moe/tukaid.png" width="165">
   </a>
 </p>
  <p align="center">
   <a href="https://sorbetflake.straw.page/">
-    <img src="https://files.catbox.moe/a2dbrg.png" width="185">
+    <img src="https://files.catbox.moe/a2dbrg.png" width="190">
   </a>
 </p>
 
