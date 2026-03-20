@@ -29,5 +29,5 @@ $\Large\color{rgb(83,50,17)}{\textsf{l}}\color{rgb(95,60,23)}{\textsf{e}}\color{
   </a>
 </p>
 <p align="center">   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=7a421b&bar_color_cover=false" width=450">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=7a421b&bar_color_cover=false" width=435">
 <br><br><br>
