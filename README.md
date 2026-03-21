@@ -23,11 +23,12 @@ $\Large\color{rgb(83,50,17)}{\textsf{l}}\color{rgb(95,60,23)}{\textsf{e}}\color{
   <a href="https://sorbetflakes.atabook.org">
     <span style="font-size:30px;"><strong><b>atabook</b></strong></span>
   </a>
-  &nbsp;&nbsp;ㅤ ㅤㅤㅤㅤ ㅤㅤㅤㅤ  ㅤㅤㅤ ㅤ&nbsp;&nbsp;
+  &nbsp;&nbsp;ㅤ ㅤㅤㅤ ㅤ<img 
+    src="https://files.catbox.moe/o249h6.png"
+    width="75" style=vertical-align:middle"/>ㅤㅤ ㅤ ㅤ&nbsp;&nbsp;
   <a href="https://sorbetflake.straw.page">
     <span style="font-size:30px;"><strong><b>strawpage</b></strong></span>
   </a>
 </p>
-<p align="center">   <a href="https://github.com/kittinan/spotify-github-profile">
 
  <br><br><br>
