@@ -1,33 +1,34 @@
 <br><br><br>
+<p align="center">
+&nbsp;&nbsp;
+ ${\textsf{\color{#f0e2ce} jumpcut! }}$
+ &nbsp;&nbsp; ${\textsf{\color{#355888} @sorbetflake }}$
 
  <p align="center">
-$\Large\color{rgb(83,50,17)}{\textsf{l}}\color{rgb(95,60,23)}{\textsf{e}}\color{rgb(110,70,30)}{\textsf{g}}\color{rgb(125,80,37)}{\textsf{o}}\color{rgb(140,95,45)}{\textsf{l}}\color{rgb(155,110,55)}{\textsf{a}}\color{rgb(165,125,70)}{\textsf{s}}$
+${\textsf{\color{#355888} ryan }}$
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ㅤㅤㅤ<img 
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5a5a5a&style=plastic&label=🪵"
-    width="75" style=vertical-align:middle"/>
+    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5a5a5a&style=plastic&label=🖇️"
+    width="65" style=vertical-align:middle"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  $\Large\color{rgb(160,160,160)}{\textsf{g}}\color{rgb(165,165,165)}{\textsf{r}}\color{rgb(170,170,170)}{\textsf{e}}\color{rgb(175,175,175)}{\textsf{e}}\color{rgb(180,180,180)}{\textsf{n}}\color{rgb(200,220,160)}{\textsf{l}}\color{rgb(185,200,145)}{\textsf{e}}\color{rgb(170,180,130)}{\textsf{a}}\color{rgb(150,160,110)}{\textsf{f}}$
-</p>
+${\textsf{\color{#f0e2ce} patel }}$
 
 
  <p align="center">
-  <img
-  src="https://files.catbox.moe/xev30z.jpg"
-  width="440"
-  align="center"
-/>
+  <img src="https://files.catbox.moe/rzmauv.png" width="85" />
+  <img src="https://files.catbox.moe/ajg179.png" width="200" />
+</p>
 
 <p align="center">
   <a href="https://sorbetflakes.atabook.org">
-    <span style="font-size:30px;"><strong><b>atabook</b></strong></span>
+    <span style="font-size:30px;"><b>atabook</b></span>
   </a>
-  &nbsp;&nbsp;ㅤ ㅤㅤㅤ ㅤ<img 
-    src="https://files.catbox.moe/o249h6.png"
-    width="75" style=vertical-align:middle"/>ㅤㅤ ㅤ ㅤ&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ${\textsf{\color{#f0e2ce} 𑣲(૮˵ˊ ꒳ ˋ˵)ა }}$
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sorbetflake.straw.page">
-    <span style="font-size:30px;"><strong><b>strawpage</b></strong></span>
+    <span style="font-size:30px;"><b>strawpage</b></span>
   </a>
 </p>
 
