@@ -17,7 +17,7 @@ ${\textsf{\color{#F8EF00} grayson }}$
 
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/sorbetflakes/sorbetflakes/refs/heads/main/Untitled469_20260409140405.png" width="24%" />
+  <img src="https://raw.githubusercontent.com/sorbetflakes/sorbetflakes/refs/heads/main/Untitled469_20260409140405.png" width="200" />
  </p>
 
 <p align="center">
