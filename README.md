@@ -1,24 +1,22 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <p align="center">
-${\textsf{\color{#BAA545} markrex }}$
+<p align="center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ㅤㅤㅤ<img 
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5a5a5a&style=plastic&label=💫"
+    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=262830&style=plastic&label=𐂯"
     width="65" style=vertical-align:middle"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-${\textsf{\color{#BAA545} invincible }}$
- 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <p align="center">
   <img src="https://files.catbox.moe/8b8dff.png" width="350" />
  </p>
 
 <p align="center">
-  <a href="https://sorbetflakes.atabook.org">
-    <span style="font-size:30px;"><b>atabook</b></span>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://sorbetflakes.atabook.org">
+   <span style="font-size:30px;"><b>atabook</b></span>
   </a> 
- ㅤㅤ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ㅤㅤㅤㅤㅤㅤㅤㅤ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ㅤㅤㅤㅤㅤㅤㅤㅤ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sorbetflake.straw.page">
     <span style="font-size:30px;"><b>strawpage</b></span>
   </a>
