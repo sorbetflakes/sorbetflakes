@@ -38,7 +38,7 @@
     <span style="font-size:30px;"><b>prns.cc</b></span>
      <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $\color{#ef0000}{\textsf{@cannibalisticcheff}}$
+  $\color{#ef0000}{\textsf{@cannibalisticchef}}$
 ㅤ $\color{#009ce9}{\textsf{@honkshoou}}$
 ㅤ $\color{#ffd600}{\textsf{(ㅤzj ㅤ*ㅤkyanㅤ)}}$
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
