@@ -1,18 +1,12 @@
 <br><br><br><br>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opxm254de6453dxyljmagkpana&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ed0000&bar_color_cover=false">
-  </a>
-</p>
-
-<p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   $\huge\color{#009ce9}{\textsf{꒰ঌ}}$
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=ef0000&style=plastic&label=𐂯"
-    width="65"
+    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=ef0000&style=plastic&label=꩜"
+    width="67"
     style="vertical-align:middle;"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,15 +26,15 @@
    <span style="font-size:30px;"><b>atabook</b></span>
   </a> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   $\color{#ffd600}{\textsf{meㅤnㅤdaㅤgangㅤυ˶˃ ﻌ ˂˶υ}}$
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   $\color{#cdcdcd}{\textsf{wyd whenㅤda gngㅤpull up}}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pronouns.cc/@sorbetflakes">
     <span style="font-size:30px;"><b>prns.cc</b></span>
-     <p align="center">
+  <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $\color{#ef0000}{\textsf{@cannibalisticchef}}$
-ㅤ $\color{#009ce9}{\textsf{@honkshoou}}$
-ㅤ $\color{#ffd600}{\textsf{(ㅤzj ㅤ*ㅤkyanㅤ)}}$
+  $\color{#ffd600}{\textsf{⌗1 smarty pants fan}}$
+ㅤ $\color{#009ce9}{\textsf{of pony townㅤ}}$
+  $\color{#ef0000}{\textsf{since feb 20}}$
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
