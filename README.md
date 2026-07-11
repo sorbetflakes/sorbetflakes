@@ -34,7 +34,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   $\color{#ffd600}{\textsf{⌗1 smarty pants fan}}$
 ㅤ $\color{#009ce9}{\textsf{of pony townㅤ}}$
-  $\color{#ef0000}{\textsf{since feb 20}}$
+  $\color{#ef0000}{\textsf{since feb 19}}$
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
