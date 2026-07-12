@@ -1,43 +1,35 @@
+<!--i c u-->
+
 <br><br><br><br>
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $\huge\color{#009ce9}{\textsf{꒰ঌ}}$
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=ef0000&style=plastic&label=꩜"
-    width="67"
-    style="vertical-align:middle;"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $\huge\color{#009ce9}{\textsf{໒꒱ㅤㅤㅤ}}$
-   $\color{#ffd600}{\textsf{sorㅤ/ㅤsorbet}}$
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
  <p align="center">
-  <img src="https://files.catbox.moe/fr7vi3.png" width="400" />
+$\small\color{#ffffff}{\textsf{ฅ ฅㅤc * h alwaysㅤㅤ }}$
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=꩜"
+    width="67"
+    />
  </p>
 
 <p align="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://sorbetflakes.atabook.org">
-   <span style="font-size:30px;"><b>atabook</b></span>
-  </a> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   $\color{#cdcdcd}{\textsf{wyd whenㅤda gngㅤpull up}}$
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pronouns.cc/@sorbetflakes">
-    <span style="font-size:30px;"><b>prns.cc</b></span>
-  <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $\color{#ffd600}{\textsf{⌗1 smarty pants fan}}$
-ㅤ $\color{#009ce9}{\textsf{of pony townㅤ}}$
-  $\color{#ef0000}{\textsf{since feb 19}}$
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <img
+    src="https://files.catbox.moe/f26tw8.png"
+    width="325"
+  />
 </p>
 
- <br><br><br><br>
- 
+<p align="center">
+  <a href="https://sorbetflakes.atabook.org/">新𝗕𝗢𝗢𝗞</a>
+ㅤㅤㅤㅤ𓈒ㅤㅤ  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pronouns.cc/@sorbetflakes">𝗣𝗥𝗡𝗦.𝗖𝗖</a>
+</p>
+
+<p align="center">
+
+ **<p align="center"><sub>𐂯ㅤㅤ[title-town](https://github.com/title-town)ㅤㅤponytown's smarty pantsㅤ</sub></p>**
+
+</p>
+<p align="center">
+  $\small\color{#ffffff}{\textsf{ㅤ⌗1 smarty fan}}$ 　*　 $\small\color{#ffffff}{\textsf{since feb 19}}$ 　૮ ˶′ ཅ ‵˶ ა
+
+<br><br><br><br>
