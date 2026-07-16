@@ -26,7 +26,7 @@ $\small\color{#ffffff}{\textsf{ฅ ฅㅤc * h alwaysㅤㅤ }}$
 
 <p align="center">
 
- **<p align="center"><sub>𐂯ㅤㅤ[title-town](https://github.com/title-town)ㅤㅤponytown's smarty pantsㅤ</sub></p>**
+ **<p align="center"><sub>𐂯ㅤ [title-town](https://github.com/title-town)ㅤ[pt-wof](https://github.com/pt-walk-of-fame)ㅤponytown's smarty pantsㅤ</sub></p>**
 
 </p>
 <p align="center">
