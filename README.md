@@ -28,6 +28,8 @@
   <a href="https://github.com/pt-hall-of-media">3</a>
   &nbsp;
   <a href="https://github.com/pt-contributers">4</a>
+  &nbsp;
+  <a href="https://github.com/pt-of-awesomeness">5</a>
   &nbsp;ㅤpt's cuphead
 </p>
 
