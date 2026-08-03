@@ -30,6 +30,8 @@
   <a href="https://github.com/pt-contributers">4</a>
   &nbsp;
   <a href="https://github.com/pt-of-awesomeness">5</a>
+  &nbsp;
+  <a href="https://github.com/ponychievements">6</a>
   &nbsp;ㅤpt's cuphead
 </p>
 
