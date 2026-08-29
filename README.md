@@ -4,8 +4,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🎲"
-    width="67"
+   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🎲"
+   width="67"
   />
 </p>
 
@@ -20,7 +20,6 @@
   <a href="https://sorbetflakes.atabook.org/">新book</a>ㅤㅤc*h always
 
 <p align="center">
-pls sign my ata &nbsp;ㅤok dude
- 
+&nbsp; plsㅤsignㅤmyㅤata &nbsp;
 
 <br><br><br><br>
