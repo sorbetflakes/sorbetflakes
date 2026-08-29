@@ -1,4 +1,4 @@
-<!--what r u doing here?-->
+<!--son-->
 
 <br><br><br><br>
 
@@ -18,21 +18,9 @@
 
 <p align="center">
   <a href="https://sorbetflakes.atabook.org/">新book</a>ㅤㅤc*h always
- 
+
 <p align="center">
-  &nbsp;
-  <a href="https://github.com/title-town">1</a>
-  &nbsp;
-  <a href="https://github.com/pt-walk-of-fame">2</a>
-  &nbsp;
-  <a href="https://github.com/pt-hall-of-media">3</a>
-  &nbsp;
-  <a href="https://github.com/pt-contributers">4</a>
-  &nbsp;
-  <a href="https://github.com/pt-of-awesomeness">5</a>
-  &nbsp;
-  <a href="https://github.com/ponychievements">6</a>
-  &nbsp;ㅤpt's cuphead
-</p>
+pls sign my ata &nbsp;ㅤok dude
+ 
 
 <br><br><br><br>
