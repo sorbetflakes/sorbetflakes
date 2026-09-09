@@ -4,15 +4,15 @@
 
 <p align="center">
   <img
-   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🎲"
+   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🎒"
    width="67"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://files.catbox.moe/2plhru.png"
-    width="285"
+    src="https://files.catbox.moe/p2tmol.png"
+    width="255"
   />
 </p>
 
@@ -20,6 +20,6 @@
   <a href="https://sorbetflakes.atabook.org/">新book</a>ㅤㅤc*h always
 
 <p align="center">
-&nbsp; plsㅤsignㅤmyㅤata &nbsp;
+&nbsp; pubㅤchatsㅤusuallyㅤoff &nbsp;
 
 <br><br><br><br>
