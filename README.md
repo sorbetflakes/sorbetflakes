@@ -11,8 +11,8 @@
 
 <p align="center">
   <img
-    src="https://files.catbox.moe/p2tmol.png"
-    width="255"
+    src="https://files.catbox.moe/tvgtf3.png"
+    width="295"
   />
 </p>
 
