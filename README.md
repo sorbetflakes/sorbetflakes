@@ -4,15 +4,8 @@
 
 <p align="center">
   <img
-   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🎒"
-   width="67"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://files.catbox.moe/tvgtf3.png"
-    width="295"
+    src="https://files.catbox.moe/4zp7a1.png"
+    width="365"
   />
 </p>
 
