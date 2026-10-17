@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="https://files.catbox.moe/4zp7a1.png"
-    width="365"
+    width="325"
   />
 </p>
 
