@@ -5,14 +5,14 @@
 <p align="center">
   <img
    src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🔫"
-   width="85"
+   width="75"
 />
 </p>
 
 <p align="center">
   <img
     src="https://files.catbox.moe/fyoz6p.png"
-    width="375"
+    width="365"
   />
 </p>
 
