@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sorbetflakes.atabook.org/">新𝗯𝗼𝗼𝗸</a>ㅤㅤc*h always
+  <a href="https://sorbetflakes.atabook.org/">新book</a>ㅤㅤc*h always
 
 <p align="center">
 &nbsp; pubㅤchatsㅤusuallyㅤoff &nbsp;
