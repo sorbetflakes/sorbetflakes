@@ -4,15 +4,15 @@
 
 <p align="center">
   <img
-   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🔫"
+   src="https://komarev.com/ghpvc/?username=sorbetflakes&color=5c5c5c&style=plastic&label=🚀"
    width="75"
 />
 </p>
 
 <p align="center">
   <img
-    src="https://files.catbox.moe/fyoz6p.png"
-    width="365"
+    src="https://files.catbox.moe/zkdw7p.png"
+    width="235"
   />
 </p>
 
